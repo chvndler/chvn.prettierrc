@@ -1,0 +1,21 @@
+"*":
+  core:
+    restorePreviousWindowsOnStart: "no"
+    telemetryConsent: "limited"
+    themes: [
+      "hypest-light"
+      "hypest-dark-syntax"
+    ]
+  editor:
+    defaultFontSize: 13
+    fontFamily: "JetBrains Mono"
+    fontSize: 13
+    preferredLineLength: 140
+    scrollPastEnd: true
+    showIndentGuide: true
+  "prettier-atom":
+    formatOnSaveOptions:
+      enabled: true
+      isDisabledIfNoConfigFile: true
+      showInStatusBar: true
+    useEditorConfig: false
